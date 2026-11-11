@@ -45,7 +45,7 @@ pip install PyQt5 numpy sympy pint matplotlib SALib
 python MonteCarlo_Calculator_alt.py
 ```
 
-`MonteCarlo_Calculator_alt.py`, `help_text.py` and `annotator.py` must be in the same folder.
+`MonteCarlo_Calculator.py`, `help_text.py` and `annotator.py` must be in the same folder.
 
 ## Quick start
 
