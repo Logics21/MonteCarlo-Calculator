@@ -117,7 +117,7 @@ To run on machines without Python, the app can be bundled with [PyInstaller](htt
 
 ```bash
 pip install pyinstaller
-pyinstaller --onefile --windowed MonteCarlo_Calculator_alt.py
+pyinstaller --onefile --windowed MonteCarlo_Calculator.py
 ```
 
 The executable is written to `dist/`. Build on each target operating system separately (a Windows build on Windows, a macOS build on macOS).
